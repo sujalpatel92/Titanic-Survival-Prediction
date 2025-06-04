@@ -27,6 +27,7 @@ This project demonstrates the following key stages of a typical Machine Learning
 
 ## Repository Structure
 
+```
 Titanic-Survival-Prediction/
 ├── README.md
 ├── requirements.txt
@@ -40,6 +41,7 @@ Titanic-Survival-Prediction/
 ├── preprocess.py
 ├── train_model.py
 └── evaluate_model.py
+```
 
 ## Setup and Installation
 
