@@ -49,10 +49,10 @@ To set up your environment and run this project, follow these steps:
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/your-username/Titanic-Survival-Prediction.git](https://github.com/your-username/Titanic-Survival-Prediction.git)
+    git clone [https://github.com/sujalpatel92/Titanic-Survival-Prediction.git](https://github.com/sujalpatel92/Titanic-Survival-Prediction.git)
     cd Titanic-Survival-Prediction
     ```
-    (Note: Replace `your-username` with your actual GitHub username or the repository's path if you've forked it.)
+    (Note: Replace `sujalpatel92` with your actual GitHub username or the repository's path if you've forked it.)
 
 2.  **Download the Dataset:**
     Download the `train.csv` file from the [Kaggle Titanic competition page](https://www.kaggle.com/c/titanic/data).
